@@ -14,16 +14,24 @@ Menu:
 User Administrator: 
 It is responsible for creating a user and password for each worker.(Need to Implement)
 
+![alt tag](https://github.com/Yei-Linux/Pharmacy-System-C-/blob/master/imgs/Menu.PNG)
+
 Customer:
 
 It is responsible for creating new customers (DNI) and logging into each 
 customer with the DNI when the customer makes a purchase. This purchase will be stored in a txt file.(For each Costumer History)
 
+![alt tag](https://github.com/Yei-Linux/Pharmacy-System-C-/blob/master/imgs/Customer.PNG)
+
 Inventory:
 
 List the products that are in the warehouse.
+
+![alt tag](https://github.com/Yei-Linux/Pharmacy-System-C-/blob/master/imgs/Inventory.PNG)
 
 Provider:
 
 It is responsible for creating new provider (RUC) and logging into each 
 Provider with the RUC when the it makes a sale. This sale will be stored in a txt file.(For each Inventory Provider)
+
+![alt tag](https://github.com/Yei-Linux/Pharmacy-System-C-/blob/master/imgs/Provider.PNG)
